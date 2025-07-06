@@ -1,0 +1,15 @@
+.first-format,
+.second-format {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+
+}
+
+.first-format {
+    background-color: black;
+    color: white;
+}
+
+.second-format {
+    background-color: yellow;
+}
